@@ -15,7 +15,7 @@ There are a few options for usage.
 ###First:
 =====
 ```bash
-wget http://www.com/install_ges.sh (pending)
+wget https://raw.githubusercontent.com/goldeneye-source/ges-linux-installer/master/install_ges.sh
 chmod +x install_ges.sh
 sudo ./install_ges.sh
 ```
